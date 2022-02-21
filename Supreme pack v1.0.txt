@@ -1,0 +1,618 @@
+﻿[Ungroupped]
+    None=None
+    Font=normal
+
+[General]
+    Cancel=No fuck you
+    Close=Go away
+    Open_Settings_Button=Lemme tune dis shit
+    Open_Cheats_Button=Powerups
+    Help=Sacred knowlenge
+    Build_Rocket=Fill can with fuel
+    Resume_Game=Les goooo
+    Return_To_Main_Menu=End abomination
+    Exit_To_Main_Menu=Mom im scared pick me up
+
+[Main Menu]
+    Play=Create war crimes
+
+# Tutorial
+    Video_Tutorials_OpenButton=Sacred knowledge.mp4
+    Video_Orbit=Orbit Thing
+    Video_Moon=Moon Thing
+    Video_Dock=Docking Thing
+
+# Community
+    Community_OpenButton=Go join bruh
+    Community_Youtube=Youtube
+    Community_Discord=Discord
+    Community_Reddit=Reddit
+
+# Credits
+    Credits_OpenButton=Devs
+    Credits_Text=Štefo Mai Morojna
+    Credits_Text=<Size=55> Designer - Programmer - Artist </size>
+    Credits_Text=
+    Credits_Text=Jordi van der Molen
+    Credits_Text=<Size=55> Programmer </size>
+    Credits_Text=
+    Credits_Text=Chris Christo
+    Credits_Text=<Size=55> Programmer </size>
+    Credits_Text=
+    Credits_Text=Davi Vasc
+    Credits_Text=<Size=55> Composer </size>
+    Credits_Text=
+    Credits_Text=Ashton Mills
+    Credits_Text=<size=55> Composer </size>
+
+# Update menu
+    Update_Available=A new update is available!
+    Update_Available=
+    Update_Available=Current version: %old%
+    Update_Available=Latest version: %new%
+    Update_Confirm=Update
+    Update_Overview_Video_Available=Check out what's new this update?
+    Update_Overview_Video_Confirm=Open
+
+# Rate menu
+    Rate_Title=Would you like to rate or review the game?
+    Rate_Title=
+    Rate_Title=We deeply care about the quality of our game, your feedback helps us improve it
+    Rate_Title=
+    Rate_Title=Even after thousands of reviews, we still read a large number of them!
+    Rate_Confirm=Rate
+
+# Close menu
+    Exit_Button=Dont do it
+    Close_Game=Why?
+
+[Worlds Menu]
+    Create_New_World_Button=Begin the abomination
+    World_Delete=Hide war crimes?
+
+# Create menu
+    Create_World_Title=Innocent world
+    Default_World_Name=AntiElectric's world lmao
+    Select_Solar_System=Select how many lag go
+    Select_Solar_System__NotFound=bruh you dumb gimme solar thing:
+    Select_Solar_System__NotFound=%system%
+    Select_Solar_System__NotFound=
+    Select_Solar_System__NotFound=Select a solar thing dummy
+    Default_Solar_System=Solar System (Lovely)
+    Custom_Solar_System=%name% (Custom shit)
+
+# World info
+    Last_Played=Last played: %value% ago
+    Just_Played=Last played: When you ended playin'
+    Time_Played=Playtime: %value%
+
+[World Create Menu]
+    World_Create_Title=Create thing
+    World_Name_Label=Write shit here
+    Solar_System_Label=Sun thing
+    Mode_Label=Difficulty
+
+[Saving]
+# Blueprint stuff
+    Blueprints_Menu_Title=Prints thing
+    Unnamed_Blueprint=Thing
+    Save_Blueprint=Save can with fuel
+    Load_Blueprint=Load can with fuel
+    Cannot_Save_Empty_Build=Can't save an empty can with fuel
+
+# Quicksave stuff
+    Quicksaves_Menu_Title=Quick here we go again
+    Unnamed_Quicksave=Here we go again
+    Create_Quicksave=Create Here we go again
+    Load_Quicksave=Load Here we go again
+
+# Save and load menus
+    Save=Save Thing
+    Load=Load Thing
+    Import=Import Thing
+    Delete=Delete Thing
+    Rename=Rename Thing
+
+# In progress
+    Saving_In_Progress=Doin' something...
+    Loading_In_Progress=Doin' something...
+    Importing_In_Progress=Doin' something...
+
+# filetype (injected)
+    Blueprint{0}=Blueprint
+    Blueprint{1}=blueprint
+    Blueprint{2}=blueprints
+    Quicksave{0}=Quicksave
+    Quicksave{1}=quicksave
+    Quicksave{2}=quicksaves
+
+# Ask overwrite menu
+    File_Already_Exists=A %filetype{1}% exist dont mind him
+    Overwrite_File=Wake  %filetype{1}% up
+    New_File=Dont wake %filetype{1}% up
+
+# Load failure
+    Load_Failed=Hey gimme %filetype{1}% from %filepath%
+    Conversion_Success=Detected a 1.4 mf %filetype{1}% and converted it to %version% format
+    Conversion_Failed=Detected a 1.4 mf %filetype{1}% and converted it to %version% format
+    Conversion_Failed=
+    Conversion_Failed=Conversion failed:
+    Conversion_Failed=%reason%
+
+[Purchasing]
+    Open_Shop_Menu=Go here with money
+    Parts_Expansion=Parts Expansion
+    Skins_Expansion=Skins Expansion
+    Planets_Expansion=Planets Expansion
+    Cheats_Expansion=Cheats
+    Infinite_Area_Expansion=Infinite Build Area
+    Builder_Bundle=Builder Bundle
+    Upgrade_To_Builder_Bundle=Upgrade To Builder Bundle
+    Sandbox_Bundle=Sandbox Bundle
+    Upgrade_To_Sandbox_Bundle=Upgrade To Sandbox Bundle
+    Full_Bundle=Full Bundle
+    Upgrade_To_Full_Bundle=Upgrade To Full Bundle
+    More_Parts=More Parts...
+    More_Skins=More Skins...
+    Buy_Product=Buy %product% %price%
+    Discount_Reason_Upgrade=Discounted because you already own other expansions
+    Purchase_Thanks_Msg=Purchased: %product%
+    Purchase_Thanks_Msg=
+    Purchase_Thanks_Msg=Thanks for your purchase
+    Purchase_Thanks_Msg=Now go and explore the stars!
+    Owned=%product% (Owned)
+    Restore_Open=Restore
+    Restore_Text=Purchases on android are restored automatically on startup
+    Restore_Text=
+    Restore_Text=- Check that you are logged into the google play account you bought it with (Check that purchase appears in google play purchase history)
+    Restore_Text=
+    Restore_Text=- Check the purchase button, if price is not shown, it means the game failed to connect to the store. Check your internet connection and restart the game
+    Restore_Text=
+    Restore_Text=If none of the above work, contact me at: games.morojna@gmail.com
+    Restore_Text=
+    Restore_Text=You can also try waiting, the purchase sometimes restores itself after a few hours
+    Purchase_FAQ_Open=FAQ
+    Purchase_FAQ_Text=<color=grey>Are purchases retained between updates?</color>
+    Purchase_FAQ_Text=Yes, of course
+    Purchase_FAQ_Text=
+    Purchase_FAQ_Text=
+    Purchase_FAQ_Text=<color=grey>Is it possible to lose purchases?</color>
+    Purchase_FAQ_Text=Your purchases are permanently stored on your store account, and are not lost if you reinstall or change phones
+    Purchase_FAQ_Text=
+    Purchase_FAQ_Text=
+    Purchase_FAQ_Text=<color=grey>Do you offer refunds?</color>
+    Purchase_FAQ_Text=Yes, absolutely, as long as it's requested in a reasonable timeframe, we will refund, no questions asked
+
+# Parts Expansion
+    PartsExpansion_Tanks=Large variety of fuel tanks!
+    PartsExpansion_Engines=Heavy lift engines!
+    PartsExpansion_Parts=Parts of all shapes and sizes!
+    PartsExpansion_Build=Large build space to bring
+    PartsExpansion_Build=your creations to life!
+
+# Skins Expansion
+    SkinsExpansion_Tanks=Paint your parts in a diverse variety of skins!
+    SkinsExpansion_Interstages=Color everything from interstages
+    SkinsExpansion_Nosecones=To nosecones
+    SkinsExpansion_Fairings=And even fairings
+
+# Planets Expansion
+    PlanetsExpansion_Jupiter=Explore Jupiter and its four moons!
+    PlanetsExpansion_Callisto=From the heavily cratered surface of Callisto!
+    PlanetsExpansion_Europa=To the vast ice flats of Europa!
+    PlanetsExpansion_Conclusion=Distant worlds are waiting for you
+    PlanetsExpansion_Conclusion=to explore them!
+
+[Settings Mobile]
+    Music_Name=Tunes
+    Sound_Name=Roarrrr
+    Screen_Rotation_Name=Flipping
+    FPS_Name=Gaming shit
+    Language_Name=Translations here
+    Menu_Scale=Small or big?
+    Menu_Opacity=Dim or bright?
+
+[Cheats]
+    Infinite_Build_Area_Name=Infinite Fun
+    Part_Clipping_Name=Part Stacking
+    Infinite_Fuel_Name=Portal with fuel
+    No_Atmospheric_Drag_Name=No Atmosphere
+    No_Collision_Damage_Name=No Crashing
+    No_Gravity_Name=No Pull
+    No_Heat_Damage_Name=No Heat 
+    No_Burn_Marks_Name=No 3rd degree burns
+
+[Active Cheats]
+    Using_Infinite_Build_Area=Infinite Fun
+    Using_Part_Clipping=Part Stacking
+    Using_Infinite_Fuel=Portal with fuel
+    Using_No_Atmospheric_Drag=No Atmosphere
+    Using_No_Collision_Damage=No Crashing
+    Using_No_Gravity=No Pull
+    Using_No_Heat_Damage=No Heat 
+    Using_No_Burn_Marks=No 3rd degree burns
+
+[Build]
+    Build_New_Rocket=Build New can with fuel
+    New=new
+    Expand_Last_Rocket=Continue Pain
+    Symmetry_On=Symmetry: Thing on
+    Symmetry_Off=Symmetry: Thing off
+    Interior_View_On=Interior View: Thing On
+    Interior_View_Off=Interior View: Thing Off
+    Launch_Button=Yeet this mf
+    Move_Rocket_Button=Move can with fuel
+
+# Clear build area
+    Clear_Warning=Clear thing because you messed up? LMAO
+    Clear_Confirm=Yeeet all shit outta here
+# Launch warnings
+    Warnings_Title=WARNING:
+    Missing_Capsule=Your rocket has no capsule, making it dumb
+    Missing_Parachute=Your rocket has no white thing
+    Missing_Heat_Shield=Your rocket has no heat protector
+    Too_Heavy=Your rocket is too heavy to lift off,dont launch your mom in space
+    Launch_Anyway_Button=Nah its good
+
+# Example rockets
+    Example_Rockets_OpenMenu=Examples of dumb things
+    Basic_Rocket=Basic Rocket
+    Stages=Stages
+    Ideal_Stages=Ideal Stages
+    Lander=Lander
+
+[Map]
+    Toggle_Map_Button=Map
+# Shown in map when you escape a gravity field of a planet
+    Escape=Yeeted
+# Shown in map when you encounter/enter a gravity field of a planet
+    Encounter=Peneterated
+# Shown in map when you approach/encounter another rocket
+    Rendezvous=Very near
+# Shows the transfer window to another planet
+    Transfer=Yo thrust here!
+
+[Game]
+    Throttle_On=Stop!
+    Throttle_Off=Go!
+    Ignition=Set booster on fire!
+    RCS=Farters
+
+# Game supports screen rotation, we split into 2 lines in vertical mode
+    Height_Terrain_Vertical=Lmao height (Terrain):
+    Height_Terrain_Vertical=
+    Height_Terrain_Vertical=%height%
+    Height_Vertical=Lmao height:
+    Height_Vertical=
+    Height_Vertical=%height%
+    Velocity_Vertical=Speed kills:
+    Velocity_Vertical=
+    Velocity_Vertical=%speed%
+
+# Angle indicates the best angle/direction the player can rotate their rocket towards
+    Angle_Vertical=How much you fucked up in %:
+    Angle_Vertical=
+    Angle_Vertical=%angle% / %targetAngle%
+    Height_Terrain_Horizontal=Lmao height (Terrain): %height%
+    Height_Horizontal=Height: %height%
+    Velocity_Horizontal=Velocity: %speed%
+
+# Angle indicates the best angle/direction the player can rotate their rocket towards
+    Angle_Horizontal=Precize shit: %angle% / %targetAngle%
+
+[Game menus]
+    Restart_Mission=Ah shit,here we go again
+    Recover_Rocket=Bring him back
+    Destroy_Rocket=kill him NOW
+
+# Restart menu
+    Restart_Mission_To_Launch=Revert To Pain
+    Restart_Mission_To_Launch_Warning=Maybe no??
+    Restart_Mission_To_Launch_Warning=
+    Restart_Mission_To_Launch_Warning=WARNING:
+    Restart_Mission_To_Launch_Warning=Are you sure?
+    Restart_Mission_To_Build=Revert To More Pain
+    Restart_Mission_To_Build_Warning=Dont do it pls?
+    Restart_Mission_To_Build_Warning=
+    Restart_Mission_To_Build_Warning=WARNING:
+    Restart_Mission_To_Build_Warning=Dont do that pls
+
+# End mission menu
+    End_Mission_Menu_Title=Mission Achievements:
+    End_Mission=Im tired
+
+# Clear space junk/debris
+    Clear_Debris_Warning=Call a janitor??
+    Clear_Debris_Warning=
+    Clear_Debris_Warning=This will remove all hot girls in your area!
+    Clear_Debris_Confirm=Call a janitor??
+
+# Select menu
+    Navigate_To=Russia Simulator
+    End_Navigation=Wait nvm
+    Focus=Lemme see this
+    Unfocus=Eh,nothin'
+    Switch_To=Gimme this!
+
+[Rocket]
+    Default_Rocket_Name=Thing
+# Informs the player that he cannot perform an action due to rocket having no control
+    No_Control_Msg=No hot milf inside
+
+[Timewarp]
+    Msg_Timewarp_Speed=WEEEEEEEEEE %speed%x
+    Msg_Timewarp_Speed_Physics=WEEEEEEEEE %speed%x
+    Msg_Timewarp_Speed_Physics=(Fly faster!)
+    Msg_Timewarp_Canceled=WEEEEEEEEEE canceled
+    Cannot_Timewarp_Below_Basic=Cannot WEEEEEEEEEE below %height%
+    Cannot_Timewarp_Below=Cannot WEEEEEEEEEE faster than %speed%x while below %height%
+    Cannot_Timewarp_While_Moving_On_Surface=Cannot WEEEEEEEEEE faster than %speed%x while moving on the surface
+    Cannot_Timewarp_While_Accelerating=Cannot WEEEEEEEEEE faster than %speed%x while under acceleration
+    Cannot_Use_Part_While_Timewarping=Cannot use %part{1}% while WEEEEEEEEEEing
+    Cannot_Turn_While_Timewarping=Cannot turn while WEEEEEEEEEEing
+
+[Units]
+    Thrust_To_Weight_Ratio=Farts / Moms: %value%
+    Mass=Mass: %value%t
+    Thrust=Fart power: %value%t
+    Burn_Time=Fart time Time: %value%s
+    Efficiency=Efficiency: %value% Fart efficiency
+    Mass_Unit=moms
+    Meter_Unit=milfs
+    Km_Unit=kilomilfs
+    Meter_Per_Second_Unit=milfs/s
+
+[Timestamps]
+    Second_Short=%value%s
+    Minute_Short=%value%m
+    Hour_Short=%value%h
+    Day_Short=%value%d
+
+[Resource Types]
+    Solid_Fuel{0}=Coal
+    Solid_Fuel{1}=coal
+    Liquid_Fuel{0}=Water
+    Liquid_Fuel{1}=water
+
+[Resource Uses]
+    Resource_Bars_Title=%resource_name{0}%:
+    Info_Resource_Amount=%resource{0}%: %amount%
+    Msg_No_Resource_Source=No %resource{1}% source
+    Msg_No_Resource_Left=Out of %resource{1}%
+
+[Part Categories]
+    Basic_Parts=Boring stuff
+    Six_Wide_Parts=6 Thin bois
+    Eight_Wide_Parts=8 Normal bois
+    Ten_Wide_Parts=10 Notso Wide bois
+    Twelve_Wide_Parts=12 Wide bois
+    Engine_Parts=Burners
+    Aerodynamics_Parts=AntiAir
+    Fairings_Parts=Hollow AntiAir
+    Structural_Parts=AntiMoms
+    Other_Parts=Interesting things
+
+[Part Names]
+    Capsule_Name{0}=Can With Dumb Man
+    Capsule_Name{1}=can with dumb man
+    Probe_Name{0}=Potato Pc
+    Probe_Name{1}=potato pc
+    Parachute_Name{0}=White Thing
+    Parachute_Name{1}=white thing
+    Kolibri_Engine_Name{0}=Smol Engine
+    Kolibri_Engine_Name{1}=smol engine
+    Hawk_Engine_Name{0}=Water Burner
+    Hawk_Engine_Name{1}=water burner
+    Valiant_Engine_Name{0}=Space Water Burner
+    Valiant_Engine_Name{1}=space water burner
+    Titan_Engine_Name{0}=Heavy Water Burner
+    Titan_Engine_Name{1}=heavy hater burner
+    Frontier_Engine_Name{0}=Efficient Water Burner
+    Frontier_Engine_Name{1}=efficient water burner
+    Peregrine_Engine_Name{0}=Career Thing
+    Peregrine_Engine_Name{1}=career thing
+    Ion_Engine_Name{0}=Infinite Thrust
+    Ion_Engine_Name{1}=infinite thrust
+    RCS_Thruster_Name{0}=Farter
+    RCS_Thruster_Name{1}=farter
+    Solid_Rocket_Booster{0}=Coal Rocket Booster
+    Solid_Rocket_Booster{1}=coal rocket booster
+    Fuel_Tank_Name{0}=Water Tank
+    Fuel_Tank_Name{1}=water tank
+    Separator_Name{0}=Empty Water Tank Deleter
+    Separator_Name{1}=empty water tank deleter
+    Side_Separator_Name{0}=Side Empty Water Tank Deleter
+    Side_Separator_Name{1}=side empty water tank deleter
+    Structural_Part_Name{0}=Metal Bar
+    Structural_Part_Name{1}=metal bar
+    Landing_Leg_Name{0}=Landing Thing
+    Landing_Leg_Name{1}=landing thing
+    Aerodynamic_Nose_Cone_Name{0}=Anti Air Thing
+    Aerodynamic_Nose_Cone_Name{1}=anti air thing
+    Aerodynamic_Fuselage_Name{0}=Engine Place Thing
+    Aerodynamic_Fuselage_Name{1}=engine place thing
+    Fairing_Name{0}=Hollow Anti Air Thing
+    Fairing_Name{1}=hollow anti air thing
+    Rover_Wheel_Name{0}=Vroom
+    Rover_Wheel_Name{1}=vroom
+    Docking_Port_Name{0}=Dock
+    Docking_Port_Name{1}=dock
+    Solar_Panel_Name{0}=Free Energy
+    Solar_Panel_Name{1}=free energy
+    Battery_Name{0}=Battery
+    Battery_Name{1}=battery
+    RTG_Name{0}=RTG
+    RTG_Name{1}=rtg
+    Heat_Shield_Name{0}=Anti Heat System
+    Heat_Shield_Name{1}=anti heat system
+    Fuel_Pipe_Name{0}=Fuel Pipe
+    Fuel_Pipe_Name{1}=fuel pipe
+
+[Part Descriptions]
+    Capsule_Description=A small can, carrying one dumb man
+    Probe_Description=An unmanned potato PC, used for one way missions
+    Parachute_Description=A white thing
+    Fuel_Tank_Description=A water tank carrying water
+    Separator_Description=Vertical separator, used to detach empty water tanks
+    Side_Separator_Description=Horizontal separator, used for detaching empty water tanks
+    Landing_Leg_Description=An extendable and retractable thing used for landing on the surface of moons and planets
+    Structural_Part_Description=A light and strong metal net
+    Hawk_Engine_Description=A high thrust - lower efficiency water burner, normally used in the first stage of a rocket
+    Titan_Engine_Description=A high thrust - lower efficiency Heavy water burner, normally used in the first stage of a rocket
+    Valiant_Engine_Description=High efficiency, low thrust. Used in space when high AF thrust isn't a priority
+    Frontier_Engine_Description=High efficiency, low thrust. Used in space when high AF thrust isn't a priority
+    Kolibri_Engine_Description=A tiny water burner used for landers
+    Ion_Engine_Description=A low thrust engine with an efficiency high AF
+    RCS_Thruster_Description=A set of small farters, used for docking
+    Booster_Description=Ignite this and pray it wont explode.
+    Aerodynamic_Nose_Cone_Description=An anti air thing, used to improve the aerodynamics of side boosters
+    Aerodynamic_Fuselage_Description=An engine place thing, used to cover engines
+    Fairing_Description=An hollow anti air thing, used to encapsulate payloads
+    Battery_Description=A battery used to store electric power
+    Solar_Panel_Description=A free energy thing that generates power when extended
+    RTG_Description=Nuclear reactor lmao
+    Rover_Wheel_Description=Vroom used to drive on the surface of planets
+    Docking_Port_Description=A dock which can be used to connect two vehicles together
+    Heat_Shield_Description=A anti heat system used to survive atmospheric reentry
+    Fuel_Pipe_Description=A pipe used to transfer fuel
+
+[Modules]
+    Torque_Module_Torque=Torque: %value%Kilo[N-word]
+    Separation_Force=Separation force: %value%Kilo[N-word]
+    Max_Heat_Tolerance=Heat tolerance: %temperature%Hot girls
+    State_On{0}=On
+    State_Off{0}=Off
+    Engine_Module_State=Engine %state{0}%
+    Engine_On_Label=Water burner on
+    Msg_RCS_Module_State=RCS %state{0}%
+    Wheel_Module_State=Vroom %state{0}%
+    Wheel_On_Label=Vroom on
+    Panel_Expanded=Expanded
+    Landing_Leg_Expanded=Deployed
+    Detach_Edges_Label=Get thing go
+    Info_Parachute_Max_Height=Min air needs is on %height% ok?
+    Msg_Cannot_Deploy_Parachute_In_Vacuum=Its vacuum bruh
+    Msg_Cannot_Deploy_Parachute_Above=Cannot deploy White thing above %height%
+    Msg_Cannot_Fully_Deploy_Above=Cannot fully deploy white thing above %height%
+    Msg_Cannot_Deploy_Parachute_While_Faster=Cannot deploy White thing when going faster than %velocity%
+    Msg_Cannot_Deploy_Parachute_While_Not_Moving=Cannot deploy white thing while not moving
+    Msg_Parachute_Half_Deployed=White thing half deployed
+    Msg_Parachute_Fully_Deployed=White thing fully deployed
+    Msg_Parachute_Cut=White thing cut
+
+[Planets]
+    Sun{0}=Sun
+    Sun{1}=the Sun
+    Sun{2}=The Sun
+    Mercury{0}=Mercury
+    Venus{0}=Venus
+    Earth{0}=Thing with unlimited money
+    Earth{1}=the Thing with unlimited money
+    Earth{2}=The Thing with unlimited money
+    Earth{3}=Thing with unlimited money's
+    Moon{0}=Moon
+    Moon{1}=the Moon
+    Moon{2}=The Moon
+    Mars{0}=Mars
+    Phobos{0}=Phobos
+    Deimos{0}=Deimos
+    Jupiter{0}=Jupiter
+    Jupiter{1}=Jupiter
+    Jupiter{2}=Jupiter
+    Jupiter{3}=Jupiter's
+    Europa{0}=Europa
+    Ganymede{0}=Ganymede
+    Io{0}=Io
+    Callisto{0}=Callisto
+
+[Landmarks]
+    Sea_of_Tranquility{0}=Sea of Tranquility
+    Sea_of_Tranquility{1}=the Sea of Tranquility
+    Sea_of_Tranquility{2}=in the Sea of Tranquility
+    Sea_of_Serenity{0}=Sea of Serenity
+    Sea_of_Serenity{1}=the Sea of Serenity
+    Sea_of_Serenity{2}=in the Sea of Serenity
+    Ocean_of_Storms{0}=Ocean of Storms
+    Ocean_of_Storms{1}=the Ocean of Storms
+    Ocean_of_Storms{2}=in the Ocean of Storms
+    Copernicus_Crater{0}=Copernicus Crater
+    Copernicus_Crater{1}=Copernicus Crater
+    Copernicus_Crater{2}=inside Copernicus Crater
+    Tycho_Crater{0}=Tycho Crater
+    Tycho_Crater{1}=Tycho Crater
+    Tycho_Crater{2}=inside Tycho Crater
+    Olympus_Mons{0}=Olympus Mons
+    Olympus_Mons{1}=Olympus Mons
+    Olympus_Mons{2}=at Olympus Mons
+    Valles_Marineris{0}=Valles Marineris
+    Valles_Marineris{1}=Valles Marineris
+    Valles_Marineris{2}=inside Valles Marineris
+    Gale_Crater{0}=Gale Crater
+    Gale_Crater{1}=Gale Crater
+    Gale_Crater{2}=inside Gale Crater
+    Hellas_Planitia{0}=Hellas Planitia
+    Hellas_Planitia{1}=Hellas Planitia
+    Hellas_Planitia{2}=in Hellas Planitia
+    Arcadia_Planitia{0}=Arcadia Planitia
+    Arcadia_Planitia{1}=Arcadia Planitia
+    Arcadia_Planitia{2}=in Arcadia Planitia
+    Utopia_Planitia{0}=Utopia Planitia
+    Utopia_Planitia{1}=Utopia Planitia
+    Utopia_Planitia{2}=in Utopia Planitia
+    Atalanta_Planitia{0}=Atalanta Planitia
+    Atalanta_Planitia{1}=Atalanta Planitia
+    Atalanta_Planitia{2}=in Atalanta Planitia
+    Lavinia_Planitia{0}=Lavinia Planitia
+    Lavinia_Planitia{1}=Lavinia Planitia
+    Lavinia_Planitia{2}=in Lavinia Planitia
+    Caloris_Planitia{0}=Caloris Planitia
+    Caloris_Planitia{1}=Caloris Planitia
+    Caloris_Planitia{2}=in Caloris Planitia
+    Borealis_Planitia{0}=Borealis Planitia
+    Borealis_Planitia{1}=Borealis Planitia
+    Borealis_Planitia{2}=in Borealis Planitia
+    Maxwell_Montes{0}=Maxwell Montes
+    Maxwell_Montes{1}=Maxwell Montes
+    Maxwell_Montes{2}=at Maxwell Montes
+
+[Achievements]
+    Reached_Height=Reached %height% altitude
+    Reached_Karman_Line=Yeeted the Karman line, leaving the atmosphere and reaching space
+    Survived_Reentry=Yeeted %planet{3}% atmosphere, max %temperature%
+    Reached_Low_Orbit=Yeeted into low %planet{0}% orbit
+    Reached_High_Orbit=Reached high %planet{0}% orbit
+    Descend_Low_Orbit=Fallen to low %planet{0}% orbit
+    Capture_Low_Orbit=Thrusted into low %planet{0}% orbit
+    Capture_High_Orbit=Thrusted into high %planet{0}% orbit
+    Entered_Lower_Atmosphere=Yeeted into %planet{3}% lower atmosphere
+    Entered_Upper_Atmosphere=Yeeted into %planet{3}% upper atmosphere
+    Left_Lower_Atmosphere=Yeeted out of %planet{3}% upper atmosphere
+    Left_Upper_Atmosphere=Yeeted out of %planet{3}% atmosphere
+    Landed=Fucked laws of physics of %planet{1}%
+    Landed_Near_Landmark=Fucked laws of physics of %planet{1}% near %landmark{1}%
+    Landed_At_Landmark=Fucked laws of physics of %planet{1}% %landmark{2}%
+    Crashed_Into_Terrain=Unsuccesfully fucked laws of physics of %planet{1}%
+    Entered_SOI=Get into personal bubble of %planet{1}%
+    Escaped_SOI=Get out of personal bubble of %planet{1}%
+    Docked_Suborbital=Docked in a strange trajectory of %planet{0}%
+    Docked_Orbit_Low=Docked in low %planet{0}% orbit
+    Docked_Orbit_Transfer=Docked in a cursed orbit of %planet{1}%
+    Docked_Orbit_High=Docked in high %planet{0}% orbit
+    Docked_Escape=Docked on an escape from personal bubble trajectory of %planet{1}%
+    Docked_Surface=Docked on the surface of %planet{1}%
+    Recover_Home=Fucked laws of %planet{1}% 'physics TWICE AND SAFELY
+    Recover_Landed=Ended mission on the surface of %planet{1}%
+    Recover_Space=NOOB LMAO
+
+[Sharing]
+    Share_Button=Share thing
+    Empty_Upload=Cannot upload empty thing
+    Uploading_Message=Doin' something
+    Upload_Fail=Failed to upload thing
+    Copied_URL_To_Clipboard=Cntrl+v this anywhere
+    Sharing_Enter_Prompt=Select whe do i put it?
+    Confirm_Download_Button=Download thing
+    Downloading_Message=Doin' something
+    Download_Fail=Failed to download thing
+    Sharing_Connect_Fail=Lmao servers broke
+
